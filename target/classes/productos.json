@@ -1,0 +1,44 @@
+[
+    {
+        "nombre": "Cascabel",
+        "edadRecomendada": 1,
+        "precioBase": 5000.0,
+        "proveedor": "Infantiles"
+    },
+    {
+        "nombre": "Peluche",
+        "edadRecomendada": 1,
+        "precioBase": 50000.0,
+        "proveedor": "Infantiles"
+    },
+    {
+        "nombre": "Colores",
+        "edadRecomendada": 5,
+        "precioBase": 8000.0,
+        "proveedor": "Recreativos"
+    },
+    {
+        "nombre": "Pelota",
+        "edadRecomendada": 1,
+        "precioBase": 10000.0,
+        "proveedor": "Recreativos"
+    },
+    {
+        "nombre": "Tren",
+        "edadRecomendada": 5,
+        "precioBase": 90000.0,
+        "proveedor": "Divertidos"
+    },
+    {
+        "nombre": "Bingo",
+        "edadRecomendada": 5,
+        "precioBase": 7000.0,
+        "proveedor": "Divertidos"
+    },
+    {
+        "nombre": "Lego",
+        "edadRecomendada": 8,
+        "precioBase": 80000.0,
+        "proveedor": "Recreativos"
+    }
+]
